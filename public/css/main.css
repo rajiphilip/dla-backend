@@ -1,0 +1,13 @@
+input.error {
+    border: 1px solid red;
+    width: 100%;
+}
+label.error {
+    padding-left: 16px;
+    margin-left: .3em;
+    color: #be2617;
+    font-size: small;
+}
+label.valid {
+    color: #be2617;
+}

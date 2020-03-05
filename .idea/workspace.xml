@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62c190dc-ade2-40c0-bbab-2c265f902f76" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/polarising/bcrypt" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/http-interop/response-sender" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/internetpixels/sodium-encryption" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1S185lBEZ2N1zjYlcMjfp6ydBr6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../daystarMobileappapi" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dlabackend\application\Controller" />
+      <recent name="C:\xampp\htdocs\dlabackend\application\view\users" />
+      <recent name="C:\xampp\htdocs\dlabackend\application\view\account" />
+      <recent name="C:\xampp\htdocs\dlabackend\application\view\feedback" />
+      <recent name="C:\xampp\htdocs\dlabackend\application\view\forum" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dlabackend\public" />
+      <recent name="C:\xampp\htdocs\dlabackend\public\js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62c190dc-ade2-40c0-bbab-2c265f902f76" name="Default Changelist" comment="" />
+      <created>1567977828651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567977828651</updated>
+      <workItem from="1567977871616" duration="1584000" />
+      <workItem from="1568207859406" duration="876000" />
+      <workItem from="1568221141484" duration="3141000" />
+      <workItem from="1568273029238" duration="692000" />
+      <workItem from="1568314163451" duration="598000" />
+      <workItem from="1568359365720" duration="335000" />
+      <workItem from="1568526439030" duration="598000" />
+      <workItem from="1568546822854" duration="478000" />
+      <workItem from="1568708966392" duration="477000" />
+      <workItem from="1568887256969" duration="7454000" />
+      <workItem from="1568923378114" duration="2607000" />
+      <workItem from="1568990910398" duration="788000" />
+      <workItem from="1569054939427" duration="590000" />
+      <workItem from="1569084778437" duration="3664000" />
+      <workItem from="1569135488206" duration="10703000" />
+      <workItem from="1569240484336" duration="268000" />
+      <workItem from="1569245489237" duration="141000" />
+      <workItem from="1569327725858" duration="8000" />
+      <workItem from="1569342479725" duration="590000" />
+      <workItem from="1569398906164" duration="642000" />
+      <workItem from="1569416229485" duration="1454000" />
+      <workItem from="1569437296287" duration="2219000" />
+      <workItem from="1569529671233" duration="1305000" />
+      <workItem from="1569532094035" duration="3540000" />
+      <workItem from="1569594575652" duration="638000" />
+      <workItem from="1569606048020" duration="6593000" />
+      <workItem from="1569679007999" duration="2403000" />
+      <workItem from="1569686352810" duration="1331000" />
+      <workItem from="1569688077465" duration="7545000" />
+      <workItem from="1569739734050" duration="1380000" />
+      <workItem from="1569744699807" duration="10255000" />
+      <workItem from="1569846281547" duration="35096000" />
+      <workItem from="1569920823974" duration="594000" />
+      <workItem from="1569929303361" duration="648000" />
+      <workItem from="1569940512490" duration="360000" />
+      <workItem from="1570013567598" duration="592000" />
+      <workItem from="1570025834987" duration="1407000" />
+      <workItem from="1570106509084" duration="1225000" />
+      <workItem from="1570349917711" duration="4911000" />
+      <workItem from="1570359184503" duration="2437000" />
+      <workItem from="1570377245128" duration="31000" />
+      <workItem from="1570442510494" duration="5485000" />
+      <workItem from="1570565180221" duration="75000" />
+      <workItem from="1570719601273" duration="2587000" />
+      <workItem from="1570896007967" duration="854000" />
+      <workItem from="1570961212228" duration="1116000" />
+      <workItem from="1570966816676" duration="657000" />
+      <workItem from="1570986758043" duration="510000" />
+      <workItem from="1573961368656" duration="26647000" />
+      <workItem from="1574152204724" duration="1806000" />
+      <workItem from="1574246286742" duration="69000" />
+      <workItem from="1574271855176" duration="634000" />
+      <workItem from="1574715312558" duration="621000" />
+      <workItem from="1574788039077" duration="2085000" />
+      <workItem from="1574843143626" duration="583000" />
+      <workItem from="1574867333117" duration="1829000" />
+      <workItem from="1580571860691" duration="612000" />
+      <workItem from="1580627649152" duration="40000" />
+      <workItem from="1580627891577" duration="698000" />
+      <workItem from="1580631370654" duration="2564000" />
+      <workItem from="1580641854218" duration="2940000" />
+      <workItem from="1580722693869" duration="59000" />
+      <workItem from="1581175770597" duration="18000" />
+      <workItem from="1581179713985" duration="1032000" />
+      <workItem from="1581212850557" duration="5673000" />
+      <workItem from="1581226505983" duration="3264000" />
+      <workItem from="1581273908006" duration="15687000" />
+      <workItem from="1581389278472" duration="3455000" />
+      <workItem from="1581496704065" duration="2011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="89" key="#Notifications" timestamp="1580641871499">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="89" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1580641871499" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1581499618388">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1581499618388" />
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1580722700295">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1580722700295" />
+  </component>
+</project>

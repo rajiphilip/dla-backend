@@ -1,0 +1,48 @@
+## display startup errors
+#php_flag display_startup_errors On
+#
+## display all other errors
+#php_flag display_errors On
+#
+## specify recording of all php errors
+#php_value error_reporting -1
+#
+## html markup of errors, make then easier to read
+#php_flag html_errors On
+#
+## log errors
+#php_value log_error 1
+#
+##log file for errors
+#php_value error_log dlabackend_application_error.log
+## Necessary to prevent problems when using a controller named "index" and having a root index.php
+## more here: http://httpd.apache.org/docs/2.2/content-negotiation.html
+
+## Add these three lines to CORSify your server for everyone.
+Header set Access-Control-Allow-Origin "*"
+Header set Access-Control-Allow-Methods "GET,POST"
+Header set Access-Control-Allow-Headers "Content-Type, Authorization, Origin, x-requested-with,"
+
+Options -MultiViews
+
+# Activates URL rewriting (like myproject.com/controller/action/1/2/3)
+RewriteEngine On
+RewriteCond %{HTTP:Authorization} ^(.*)
+RewriteRule .* - [e=HTTP_AUTHORIZATION:%1]
+
+# Prevent people from looking directly into folders
+Options -Indexes
+
+# If the following conditions are true, then rewrite the URL:
+# If the requested filename is not a directory,
+RewriteCond %{REQUEST_FILENAME} !-d
+# and if the requested filename is not a regular file that exists,
+RewriteCond %{REQUEST_FILENAME} !-f
+# and if the requested filename is not a symbolic link,
+RewriteCond %{REQUEST_FILENAME} !-l
+# then rewrite the URL in the following way:
+# Take the whole request filename and provide it as the value of a
+# "url" query parameter to index.php. Append any query string from
+# the original URL as further query parameters (QSA), and stop
+# processing this .htaccess file (L).
+RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
